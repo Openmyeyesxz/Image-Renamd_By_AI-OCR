@@ -1,6 +1,8 @@
 # Rename based on the content of the labels in the image
   During field trials, sample names or sample codes are typically displayed on rigid labels of various colours. To reduce labour costs, minimise time expenditure, and enhance operational efficiency during phenotypic data collection, we have developed a streamlined programme based on AI-OCR technology to simplify our workflow.
 
+## Note⚠️: If you have a file containing multiple images, after the renaming process completes, successfully renamed images will be moved from the original file into the newly created folder and will not remain in the original folder.
+
 > **Our process defaults to YOLO-based segmentation and the Doubao AI.**
 
 > **We provide run files that can process multiple subsets in a loop.**
