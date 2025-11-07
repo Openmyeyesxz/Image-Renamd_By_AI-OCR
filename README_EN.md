@@ -214,5 +214,14 @@ python detect_tags.py \
 > Replace `detect_tags.py` with your actual script name if different (e.g., `main.py`).
 
 ---
+
+# 4. Manual Photo Review Process
+> Enables real-time preview, modification, and saving of your images to prevent AI from renaming them incorrectly.
+
+## Interface view as follows:
+![image](https://github.com/Openmyeyesxz/Image-Renamd_By_AI-OCR/blob/main/Image/tag_check.png)
+
+---
+
 ## Citation Requirements
 Please indicate that this material is sourced from the Center for **Wheat Genetics and Genomics Center (WGGC)**, College of Agriculture, China Agricultural University.
