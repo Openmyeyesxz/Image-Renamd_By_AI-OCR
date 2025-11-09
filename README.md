@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Openmyeyesxz/Image-Renamd_By_AI-OCR_app">GUI APP</a>
+  <strong>崭新的GUI</strong>
+  <a href="https://github.com/Openmyeyesxz/Image-Renamd_By_AI-OCR_app">Tagtool</a>
 </p>
 
 
@@ -223,7 +224,6 @@ python detect_tags.py \
 
 ---
 
-
 # 4. 人工审核照片程序（旧版）
 > 能够实时地预览、修改和保存你的图片，以免AI实现错误的重命名。
 ## 界面视图如下：
@@ -231,7 +231,7 @@ python detect_tags.py \
 
 
 # 5. GUI界面程序
-另外，我们提供了[集成AI-OCR和人工核验功能的GUI程序](https://github.com/Openmyeyesxz/Image-Renamd_By_AI-OCR_app)，可以通过AI-OCR进行识别，并且能够实时查看并修改图片文件名。
+另外，我们提供了新的[集成AI-OCR和人工核验功能的GUI程序](https://github.com/Openmyeyesxz/Image-Renamd_By_AI-OCR_app)，可以通过AI-OCR进行识别，并且能够实时查看并修改图片文件名。目前只能在windows上进行运行。
 
 ---
 ## 引用要求
